@@ -15,3 +15,7 @@ print(type(tupla3))
 tupla4 = (4,) # Tupla
 print(tupla4)
 print(type(tupla4))
+
+tupla5 = 4, # Tupla
+print(tupla5)
+print(type(tupla5))
